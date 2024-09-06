@@ -1,4 +1,5 @@
-# ECG Signal Preprocessing Simulation in LTSpice
+## ECG Signal Preprocessing Simulation in LTSpice
+![MAIN CIRCUIT](https://github.com/user-attachments/assets/3c424609-5cc2-4893-a10e-f4814eba5171)
 
 ## Overview
 
@@ -17,4 +18,4 @@ This project involves simulating the preprocessing of ECG signals using LTSpice.
 
 ## Results
 
-After simulating each component, output signals are shown as jpegs. As seen ECG signal is appropriately amplified and filtered.
+After simulating each component, output signals are shown as jpegs. As seen, ECG signal is appropriately amplified and filtered.
